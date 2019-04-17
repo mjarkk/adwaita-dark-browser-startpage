@@ -1,0 +1,32 @@
+body {
+  background-color: #545454;
+}
+
+.search {
+  height: 35px;
+  display: table;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.ddg_search {
+  overflow: hidden;
+  margin: 0;
+  padding: 0px 0px 0px 10px;
+  width: 408px;
+  height: 40px;
+  border-radius: 0px;
+  background-color: #2d2d2d;
+}
+
+.ddg_search_button {
+  float: right;
+  height: 44px;
+  width: 43px;
+  border: 0;
+  background-color: #353535;
+}
+
+.ddg_search_button:hover {
+
+}
