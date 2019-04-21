@@ -28,9 +28,11 @@ body {
   width: 43px;
   border: 0;
   background-color: #353535;
+  transition: background-color 0.1s;
+  cursor: pointer;
   color: white;
 }
 
 .ddg_search_button:hover {
-
+  background-color: #1a1919;
 }
