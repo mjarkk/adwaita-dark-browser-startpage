@@ -14,5 +14,5 @@ Replace line 7 in index.html with `<link rel="stylesheet" href="https://use.font
 2. Put it somewhere on your computer where you can't accidentally delete it.
 3. Do as suggested above to get Font Awesome installed.
 4. Open your favorite browser be it Chrome, Chromium, Firefox, Vivaldi etc..
-5. Find the setting in your browser which defines the start page. In Firefox this will be under `Prefferences > Home`.
+5. Find the setting in your browser which defines the start page. In Firefox this will be under `Preferences > Home`.
 6. Point it to the index.html included in this download.
