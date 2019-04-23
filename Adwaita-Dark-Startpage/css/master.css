@@ -39,6 +39,12 @@ body {
   color: white;
 }
 
+.ddg_search_button svg {
+  fill: white;
+  height: 15px;
+  width: 15px;
+}
+
 .ddg_search_button:hover {
   background-color: #1a1919;
 }
