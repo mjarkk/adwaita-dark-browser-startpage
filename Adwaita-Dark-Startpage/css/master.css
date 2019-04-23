@@ -1,5 +1,11 @@
 body {
   background-color: #545454;
+  overflow: hidden;
+}
+
+.main {
+    height: 100%;
+    position: absolute;
 }
 
 .search {
