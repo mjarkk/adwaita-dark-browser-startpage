@@ -2,7 +2,6 @@ let search = document.querySelector('.ddg_search')
 let searchButton = document.querySelector('.ddg_search_button')
 
 search.focus()
-search.select()
 
 searchButton.onclick = function(event) {
   doASearch()
@@ -20,5 +19,4 @@ function doASearch() {
 
 function selectSearch() {
   search.focus()
-  search.select()
 }
