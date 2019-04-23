@@ -1,5 +1,5 @@
 # Adwaita Dark Homepage
-A simple Adwaita Dark themed browser start page.
+A simple Adwaita Dark themed browser homepage.
 
 ![GitHub Logo](/docs/images/example.png)
 
