@@ -16,7 +16,3 @@ search.onkeydown = function(event) {
 function doASearch() {
   location.href = 'https://duckduckgo.com/?q=' + search.value.replace(/\s/g, '+')
 }
-
-function selectSearch() {
-  search.focus()
-}
